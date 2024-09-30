@@ -74,7 +74,7 @@ predictions_df = pd.DataFrame({
     'PredictedOccupants': y_pred[:, 1]
 })
 print(predictions_df.head())
-```py
+```
 
 ## Output:
 ![Screenshot 2024-09-30 154929](https://github.com/user-attachments/assets/2e903af7-5f7f-4bee-82f2-fbc840e74f3f)
